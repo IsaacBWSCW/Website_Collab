@@ -2,6 +2,15 @@
 :root{font-family: Inter, sans-serif;font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */}
 @supports (font-variation-settings: normal) {:root { font-family: InterVariable, sans-serif; }}
 
+* {
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
 h100 {
   font-size: 10px;
   font-weight: 80;
