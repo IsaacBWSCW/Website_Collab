@@ -3,5 +3,5 @@
 @supports (font-variation-settings: normal) {:root { font-family: InterVariable, sans-serif; }}
 
 body {
-  background-color: #101010;color:white;margin:10% 20%;
+  background-color: #101010;color:white;margin:5% 10%;
 }
