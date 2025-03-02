@@ -10,10 +10,12 @@ img{
   width:100%;
   border-radius:5px;
   transition:all 0.2s cubic-bezier(0.223, 0.63, 0.34, 1);
+  filter: blur(2px);
 }
 
 img:hover{
   transform:translate(0,-5px);
+  filter: blur(0px);
 }
 
 p{
