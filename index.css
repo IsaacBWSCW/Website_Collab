@@ -13,7 +13,6 @@ img{
 }
 
 img:hover{
-  transform:translate(0,-5px);
   transform: scale(102%);
 }
 
