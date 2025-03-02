@@ -5,3 +5,7 @@
 body {
   background-color: #101010;color:white;margin:5% 15%;
 }
+
+img{
+  width:100%;border-radius:5px;
+}
